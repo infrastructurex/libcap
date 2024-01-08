@@ -27,7 +27,7 @@ mkdir legal
 cat > legal/libcap<< EOF
 Source  : $SOURCE
 Version : $VERSION
-Package : https://github.com/vmify/libcap/libcap/download/$TAG/libcap-$ARCH-$TAG.tar.gz
+Package : https://github.com/infrastructurex/libcap/libcap/download/$TAG/libcap-$ARCH-$TAG.tar.gz
 License :
 
 EOF
